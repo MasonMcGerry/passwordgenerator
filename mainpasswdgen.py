@@ -1,6 +1,6 @@
-import Password_generator
+import passwordgenerator
 
 b = True
 
 while b == True:
-    Password_generator.password()
+    passwordgenerator.password()
